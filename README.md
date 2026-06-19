@@ -1,6 +1,6 @@
 ## Hi, I'm Jeff Oriecuia
 
-Product manager based in Vancouver, BC. I work on cloud platforms, APIs, and developer-facing products, and I build my own tools to stay close to how software actually gets made.
+I'm a product manager based in Vancouver, BC. I work on cloud platforms, APIs, and developer-facing products, and I build my own tools to stay close to how software actually gets made.
 
 The repos here are personal projects. I use them to test ideas, learn new stacks, and solve real problems for myself and people around me. I define what to build, iterate on the code until it works the way I want, and ship it. AI-assisted development is a big part of how I work day to day.
 

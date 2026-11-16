@@ -10,9 +10,3 @@ The repos here are personal projects built around real problems for me and the p
 - **[investment-rebalancer](https://github.com/redwheeler3/investment-rebalancer)** — Python tool that rebalances Questrade brokerage accounts. Talks to Questrade's token-based API, handles OAuth refresh automatically, aggregates accounts into one portfolio view, and generates trade and FX recommendations.
 - **[google-official-mcp-oauth](https://github.com/redwheeler3/google-official-mcp-oauth)** — A small adapter that connects MCP clients like Claude Code, Codex, and Cline to Google's official Gmail, Calendar, and Drive MCP servers. It handles the OAuth token lifecycle and protocol translation between local stdio and remote HTTP. Not a full server, just the plumbing that closes a real interop gap.
 - **[penta-coop-website](https://github.com/redwheeler3/penta-coop-website)** — Public Eleventy site for Penta Housing Co-Op with responsive pages, vacancy notifications, application-service integration, GA4 analytics, and GitHub Pages deployment. Live at [pentacoop.com](https://pentacoop.com).
-- **[jeffo-website](https://github.com/redwheeler3/jeffo-website)** — My personal site and portfolio hub. Live at [jeffo.net](https://www.jeffo.net).
-
-### Elsewhere
-
-- Site: [jeffo.net](https://jeffo.net)
-- LinkedIn: [in/jefforiecuia](https://www.linkedin.com/in/jefforiecuia/)

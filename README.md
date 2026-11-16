@@ -1,4 +1,4 @@
-## Hi, I'm Jeff Oriecuia
+## Hi, I'm Jeff
 
 I'm a product manager based in Vancouver, BC. I work on cloud platforms, APIs, and developer-facing products, and I build and operate my own software to stay close to how products actually get made.
 
